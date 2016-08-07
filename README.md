@@ -2,7 +2,7 @@
 A simple program using c# and httpclient to create as many accounts as you like FAST!
 
 #Support/Join our Discord!
-##https://discord.gg/45AfENq
+###https://discord.gg/45AfENq
 
 
 1. Go to releases near the top of the page and download Pokemon-Account-Maker.zip
